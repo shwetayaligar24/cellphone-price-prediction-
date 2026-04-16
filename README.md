@@ -51,7 +51,7 @@ Predict the price category (low, medium, high, very high) of mobile phones using
 ![Heatmap](Heatmap.png)
 
 ### Dataset Overview
-![dataset]_(dataset.png)
+![dataset](dataset.png)
 
 ### Conclusion
 ![Conclusion](Conclusion.png)
