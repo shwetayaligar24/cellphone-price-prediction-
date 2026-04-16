@@ -45,7 +45,6 @@ Predict the price category (low, medium, high, very high) of mobile phones using
 - KNN showed the lowest performance  
 
 ---
-
 ## 📊 Project Visuals
 
 ### Correlation Heatmap
